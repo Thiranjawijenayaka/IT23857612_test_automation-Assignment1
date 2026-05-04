@@ -12,7 +12,7 @@ IT3040_Assignment_1/
 - IT23857612_test_automation.py           → Playwright automation script  
 - IT23857612_Assignment 1 - Test cases.xlsx → Excel file with test cases & results  
 - IT23857612_requirements.txt             → Python dependencies  
-- IT23857612_README.md                    → Project documentation  
+- README.md                    → Project documentation  
 
 
 ---
