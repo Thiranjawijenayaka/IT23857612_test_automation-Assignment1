@@ -26,7 +26,7 @@ python test_automation.py --excel "IT12345678_Assignment 1 - Test cases.xlsx" --
 --keep-open
 
 Example:
-python test_automation.py --excel "Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --keep-open
+python test_automation.py --excel "IT12345678_Assignment 1 - Test cases.xlsx" --url "https://www.pixelssuite.com/chat-translator" --keep-open
 
 ## Project Description
 
